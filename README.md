@@ -9,4 +9,5 @@
 ## 其他
 油猴扩展(Tampermonkey)脚本,下载完js文件到本地并安装油猴扩展(Tampermonkey)后可以自行在扩展的管理面板中导入。
 主要功能目前来说是能用的，可能有bug
+
 此外[DOI, SCImago Journal Rank and JIF for Google Scholar](https://greasyfork.org/zh-CN/scripts/536204-doi-scimago-journal-rank-and-jif-for-google-scholar "Greasy Fork仓库链接")这个插件可以方便地显示文章的期刊会议全名。
